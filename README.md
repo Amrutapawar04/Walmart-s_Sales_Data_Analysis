@@ -129,3 +129,26 @@ The interactive dashboard includes:
 
 ## 📁 Project Structure
 
+Walmart-Sales-Analysis/
+│
+├── data/
+│ └── walmart_cleaned.xlsx
+│
+├── sql/
+│ └── queries.sql
+│
+├── python/
+│ └── walmart_analysis.ipynb
+│
+├── powerbi/
+│ └── dashboard.pbix
+│
+└── README.md
+
+
+## 👩‍💻 Author
+Amruta Pawar  
+
+## ⭐ If you like this project
+Give it a star on GitHub!
+
